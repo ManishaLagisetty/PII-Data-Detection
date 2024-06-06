@@ -10,7 +10,7 @@ This project utilizes modern Natural Language Processing model DistilBERT to imp
 https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data/data
 
 #### Technical Report
-Project_Report.pdf
+ProjectReport.pdf
 
 #### Code implementation
 distilbert_model.ipynb
