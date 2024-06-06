@@ -15,8 +15,5 @@ Project_Report.pdf
 #### Code implementation
 distilbert_model.ipynb
 
-#### model weights
-distilbert_model_weights.pth
-
 #### final ouput csv file for submission
 submission_DISTILBERT.csv
