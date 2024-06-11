@@ -15,6 +15,9 @@ PHONE_NUM - A phone number associated with a student. <br>
 URL_PERSONAL - A URL that might be used to identify a student. <br>
 STREET_ADDRESS - A full or partial street address that is associated with the student, such as their home address. <br>
 
+![DALL·E 2024-06-10 20 48 46 - A colorful and clean image representing different types of Personally Identifiable Information (PII) related to students  Include vibrant icons for ea](https://github.com/ManishaLagisetty/PII-Data-Detection/assets/147951099/3316329b-4bd0-4cad-958b-be25c073e38b)
+
+
 #### Dataset link
 https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data/data
 
