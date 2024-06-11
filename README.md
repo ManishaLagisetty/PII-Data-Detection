@@ -6,6 +6,15 @@ Students' Personally Identifiable Information (PII) is crucial, especially consi
 
 This project utilizes modern Natural Language Processing model DistilBERT to improve the effectiveness and precision of PII detection. By harnessing this state-of-the-art technology, goal is to pave the way for generating high-quality public education datasets while preserving privacy.
 
+### Seven types of PII Types:
+NAME_STUDENT - The full or partial name of a student that is not necessarily the author of the essay. This excludes instructors, authors, and other person names. <br>
+EMAIL - A student’s email address. <br>
+USERNAME - A student's username on any platform. <br>
+ID_NUM - A number or sequence of characters that could be used to identify a student, such as a student ID or a social security number. <br>
+PHONE_NUM - A phone number associated with a student. <br>
+URL_PERSONAL - A URL that might be used to identify a student. <br>
+STREET_ADDRESS - A full or partial street address that is associated with the student, such as their home address. <br>
+
 #### Dataset link
 https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data/data
 
@@ -17,3 +26,7 @@ distilbert_model.ipynb
 
 #### final ouput csv file for submission
 submission_DISTILBERT.csv
+
+Tools and Technologies: Jupyter Notebook, Deep Learning <br>
+Languages: Python (Numpy, Pandas, Matplotlib, Seaborn)
+Framework: Pytorch 
