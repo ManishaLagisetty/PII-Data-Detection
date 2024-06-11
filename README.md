@@ -24,9 +24,13 @@ ProjectReport.pdf
 #### Code implementation
 distilbert_model.ipynb
 
+#### Technology Stack
+Jupyter Notebook, Deep Learning <br>
+Languages: Python (Numpy, Pandas, Matplotlib, Seaborn)
+Framework: Pytorch 
+
 #### final ouput csv file for submission
 submission_DISTILBERT.csv
 
-Tools and Technologies: Jupyter Notebook, Deep Learning <br>
-Languages: Python (Numpy, Pandas, Matplotlib, Seaborn)
-Framework: Pytorch 
+<img width="457" alt="image" src="https://github.com/ManishaLagisetty/PII-Data-Detection/assets/147951099/4d3c622d-062d-4f81-9787-40f5ac978545">
+
